@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThomasTraynor
 - 👀 I’m interested in Linux, digital photography, Z/OS, COBOL and DB/2
-- 🌱 I’m currently learning nothing at this time
+- 🌱 I’m starting to learn how to program in Rust.
 - 💞️ I’m looking to collaborate on Simple bash tools for Linux
 - 📫 How to reach me thomas.traynor@gmail.com
 
